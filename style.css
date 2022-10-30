@@ -1,0 +1,51 @@
+.text-div{
+    margin-top: 7rem;
+    text-align: center;
+}
+.text-color{
+    color: red;
+}
+
+.button{
+    text-align: center;
+}
+.btn-color{
+    margin-left: rem;
+    padding: 10px;
+    background-color:yellow;
+    color:black;
+    text-decoration: none;
+    border-radius: 10px;
+
+}
+.button{
+    margin-top: 2rem;
+}
+.btn-yes{
+    margin-right: 5rem;
+}
+.text-color-no{
+    color: red
+}
+.sorry{
+    text-align: center;
+    margin-top: 9rem;
+}
+.date{
+    text-align: center;
+    margin-top: 9rem;
+}
+.yes{
+    padding: 10px;
+    background-color:yellow;
+    color:black;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.birth{
+    text-align: center;
+    margin-top: 9rem;
+}
+.birthday{
+    color: red;
+}
